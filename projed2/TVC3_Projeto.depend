@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1530485430 source:/ice/Downloads/projed2/main.cpp
+	<iostream>
+	"ArvBinBusca.h"
+
+1562282682 /ice/Downloads/projed2/ArvBinBusca.h
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"NoArv.h"
+
+1530485688 /ice/Downloads/projed2/NoArv.h
+
+1562279311 source:/ice/Downloads/projed2/ArvBinBusca.cpp
+	"ArvBinBusca.h"
+	<cmath>
+
